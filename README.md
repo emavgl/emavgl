@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on moving [Runtastic](https://github.com/runtastic) data to the Azure cloud using Spark and [Databricks](https://github.com/databricks).
+- 🔭 I’m currently working on Dynatrace Query Language at [Dynatrace]([https://github.com/runtastic](https://www.dynatrace.com/)
 - 📫 How to reach me: send an email to emavgl@gmail.com
